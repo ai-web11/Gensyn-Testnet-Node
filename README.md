@@ -1,4 +1,3 @@
-# Gensyn-Testnet-Node
 <h2 align=center>Gensyn Testnet Node Guide By Airdrop Insider</h2>
 
 ## 💻 System Requirements
